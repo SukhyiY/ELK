@@ -1,2 +1,2 @@
 # ELK
-ELK which installed with docker-compose 
+ELK which can be installed with docker-compose 
